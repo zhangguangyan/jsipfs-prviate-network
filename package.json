@@ -1,0 +1,26 @@
+{
+  "name": "jsipfs-pnet",
+  "version": "1.0.0",
+  "description": "ipfs, js-ipfs, libp2p, private network, local network, swarm.key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangguangyan/jsipfs-pnet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangguangyan/jsipfs-pnet/issues"
+  },
+  "homepage": "https://github.com/zhangguangyan/jsipfs-pnet#readme",
+  "dependencies": {
+    "ipfs": "^0.55.4"
+  },
+  "devDependencies": {
+    "js-ipfs-swarm-key-gen": "^1.1.0"
+  }
+}
