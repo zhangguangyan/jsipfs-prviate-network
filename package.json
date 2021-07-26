@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/zhangguangyan/jsipfs-pnet#readme",
   "dependencies": {
-    "ipfs": "^0.55.4"
+    "ipfs": "^0.55.4",
+    "orbit-db": "^0.26.1"
   },
   "devDependencies": {
     "js-ipfs-swarm-key-gen": "^1.1.0"
